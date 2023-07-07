@@ -45,7 +45,6 @@ pipeline {
                     -Dsonar.host.url=http://172.31.83.90:9000 \
                     -Dsonar.token=$sonar_token'
 		    
-           
             }            
         }
     }
